@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile" alt="Banner">
+</h1>
 <h1 align="center">Hi 👋, I'm Monjur Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
