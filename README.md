@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Monjur Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monjur14&label=Profile%20views&color=0e75b6&style=flat" alt="monjur14" /> </p>
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
