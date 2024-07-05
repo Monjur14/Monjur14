@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monjur14&label=Profile%20views&color=0e75b6&style=flat" alt="monjur14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monjur14" alt="monjur14" /></a> </p>
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
