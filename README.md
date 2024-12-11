@@ -3,7 +3,7 @@
   <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="Banner">
 </h1>
 <h1 align="center">Hi 👋, I'm Monjur Hossen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Software developer from Bangladesh</h3>
 
 ## :chart_with_upwards_trend: Current Stats
 
