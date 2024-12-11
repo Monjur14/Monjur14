@@ -19,7 +19,6 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://i.ibb.co.com/pfkGGfW/database-amazon-rds-mssql-instance-962x1024.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
 </p>
 <p align="center">
@@ -34,6 +33,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+  <img src="https://i.ibb.co.com/pfkGGfW/database-amazon-rds-mssql-instance-962x1024.png" width="54"/>
 </p><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monjur14&show_icons=true&locale=en&layout=compact" alt="monjur14" /></p>
