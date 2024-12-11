@@ -19,7 +19,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
+<img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png](https://i.ibb.co.com/pfkGGfW/database-amazon-rds-mssql-instance-962x1024.png)"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
 </p>
 <p align="center">
